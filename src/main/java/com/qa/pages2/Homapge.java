@@ -8,4 +8,8 @@ public class Homapge {
 		System.out.println("this is home page method");
 		
 	}
+	
+	public void Newmethod() {
+		
+	}
 }
